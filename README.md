@@ -8,3 +8,5 @@ In this ml model, i have to find which type of rice  category does it belong bas
 In this ml model, i have to predict house prices based on features like bedroom no.,house area etc to calculate price
 # Taxi fare seoul model
 In this ml model, i have  to predict taxi fare based on occupancy of vehicles available in a hour with the features like season,time between two occupancy
+# Disease Predictor model
+In this project,i have to predict disease based on symptoms so i have used a pre-trained model from hugging face and tuned it according to my project
